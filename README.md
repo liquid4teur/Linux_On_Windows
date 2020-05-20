@@ -30,8 +30,6 @@ Now open the settings on the Windows Terminal and add a profile:
 
 }
 ```
-
-
 # Ressources 
 
 [Installation](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10#install-your-linux-distribution-of-choice)
